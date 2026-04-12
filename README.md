@@ -1,6 +1,4 @@
-# Plant vs Zombies – Enhanced Edition  
-# 植物大战僵尸 – 增强版
-
+# Plant vs Zombies in Python
 ## English
 
 A simplified tower defense game based on the classic *Plants vs. Zombies*, implemented with Python's Tkinter library.
@@ -33,7 +31,7 @@ Controls
 Custom Assets
 
 Place images in the assets/ folder with the same filenames as in the code. If missing, the game will fallback to simple shapes.
-中文
+##中文
 
 基于经典游戏《植物大战僵尸》的简化塔防游戏，使用 Python 的 Tkinter 库实现。
 功能特点
